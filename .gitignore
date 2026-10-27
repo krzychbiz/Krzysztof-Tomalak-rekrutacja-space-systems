@@ -1,0 +1,19 @@
+# Build
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+*.bin
+*.hex
+
+# IDE / OS
+.metadata/
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
